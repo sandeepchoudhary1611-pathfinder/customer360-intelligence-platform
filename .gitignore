@@ -1,0 +1,20 @@
+# Python Virtual Environment (Do not upload to GitHub!)
+.venv/
+env/
+venv/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI local cache / temp files
+*.tmp
